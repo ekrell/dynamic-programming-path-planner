@@ -14,7 +14,7 @@ import math
 
 # Starting position
 i_start = 0
-j_start = 12
+j_start = 0
 
 # Matrix M: Occupancy grid
 # M[i][j] = 0 if obstacle, M[i][j] = 1 if free
